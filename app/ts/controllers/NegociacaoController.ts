@@ -20,6 +20,6 @@ class NegociacaoController {
             parseFloat(this._inputValor.value)
         );
 
-        console.log(negociacao.quantidade + 20)
+        console.log(negociacao.volume)
     }
 }
